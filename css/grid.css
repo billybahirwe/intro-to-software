@@ -1,7 +1,14 @@
+
 .col {
     border-style: solid;
+    border-color: brown;
 }
 .row {
     border-style: dotted;
+    border-color: green;
+}
+.container {
+    border-style:groove;
+    border-color:red;
 }
     
